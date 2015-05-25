@@ -1,0 +1,1 @@
+/home/adeora7/ember-blog/tmp/class-tmp_cache_dir-cyFGuvUc.tmp/assets/blog.js

@@ -1,0 +1,1 @@
+/home/adeora7/ember-blog/tmp/jshinter-tmp_dest_dir-sZzPMjYY.tmp/test-helper.jshint.js

@@ -1,0 +1,1 @@
+/home/adeora7/ember-blog/tmp/caching-writer-dest-dir_3t5nmY.tmp/assets/vendor.js

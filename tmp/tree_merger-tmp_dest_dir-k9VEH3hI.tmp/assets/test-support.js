@@ -1,0 +1,1 @@
+/home/adeora7/ember-blog/tmp/caching-writer-dest-dir_Mo4lMX.tmp/assets/test-support.js

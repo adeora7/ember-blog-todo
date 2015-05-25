@@ -1,0 +1,1 @@
+/home/adeora7/ember-blog/tmp/custom_static_compiler-tmp_dest_dir-3NY5WS61.tmp/blog/tests/helpers/format-date.jshint.js

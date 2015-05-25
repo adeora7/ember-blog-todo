@@ -1,0 +1,31 @@
+<h3>Add new task</h3>
+<div>
+<div>
+	{{input type="text" value=title placeholder="title"}}
+</div>
+
+<div>
+	{{textarea value=body placeholder="description"}}
+</div>
+<button {{ action 'add' }} >ADD</button>
+</div>
+<h3> Tasks </h3> 
+<div>
+<ul>
+{{#each}}
+
+<li>
+{{#link-to 'task' this}}
+{{ title }}
+{{/link-to}}
+</li>
+
+{{/each}}
+</ul>
+
+
+</div>
+
+<div >
+	{{outlet}}
+</div>

@@ -1,0 +1,1 @@
+/home/adeora7/ember-todo/bower_components/ember-cli-test-loader/test-loader.js

@@ -1,0 +1,1 @@
+/home/adeora7/ember-blog/tmp/class-tmp_cache_dir-wxdHRgfx.tmp/addons.js

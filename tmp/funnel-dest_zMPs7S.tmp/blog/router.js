@@ -1,0 +1,1 @@
+/home/adeora7/ember-blog/tmp/babel-tmp_dest_dir-B3Nf7YfR.tmp/blog/router.js

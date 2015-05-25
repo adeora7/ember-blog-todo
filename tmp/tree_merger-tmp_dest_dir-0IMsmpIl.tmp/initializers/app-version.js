@@ -1,0 +1,1 @@
+/home/adeora7/ember-blog/tmp/tree_merger-tmp_dest_dir-e1K09l51.tmp/initializers/app-version.js

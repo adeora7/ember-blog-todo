@@ -1,0 +1,1 @@
+/home/adeora7/ember-blog/tmp/custom_static_compiler-tmp_dest_dir-fx6MBf8E.tmp/ember-data/ember-data.prod.js

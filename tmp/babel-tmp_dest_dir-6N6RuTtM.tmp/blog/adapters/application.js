@@ -1,0 +1,1 @@
+/home/adeora7/ember-blog/tmp/babel-tmp_cache_dir-9LawDQ7t.tmp/12

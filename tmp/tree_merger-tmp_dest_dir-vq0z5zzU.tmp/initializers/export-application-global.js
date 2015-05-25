@@ -1,0 +1,1 @@
+/home/adeora7/ember-todo/tmp/tree_merger-tmp_dest_dir-sIXAN6w8.tmp/initializers/export-application-global.js

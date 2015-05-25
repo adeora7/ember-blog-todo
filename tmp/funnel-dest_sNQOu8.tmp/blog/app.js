@@ -1,0 +1,1 @@
+/home/adeora7/ember-blog/tmp/babel-tmp_dest_dir-uIAm6D4F.tmp/blog/app.js
